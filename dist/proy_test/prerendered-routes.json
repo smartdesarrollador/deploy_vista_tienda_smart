@@ -1,0 +1,25 @@
+{
+  "routes": [
+    "/",
+    "/about",
+    "/auth",
+    "/auth/forgot-password",
+    "/auth/login",
+    "/auth/register",
+    "/auth/reset-password",
+    "/buscar",
+    "/carrito",
+    "/catalogo",
+    "/checkout",
+    "/contacto",
+    "/cuenta",
+    "/mi-cuenta",
+    "/mi-cuenta/configuracion",
+    "/mi-cuenta/credito",
+    "/mi-cuenta/dashboard",
+    "/mi-cuenta/direcciones",
+    "/mi-cuenta/favoritos",
+    "/mi-cuenta/notificaciones",
+    "/mi-cuenta/pedidos"
+  ]
+}
