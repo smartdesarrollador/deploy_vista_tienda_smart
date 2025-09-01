@@ -1,2 +1,0 @@
-import './polyfills.server.mjs';
-import{a as u}from"./chunk-RYZWVBKO.mjs";import{ac as o,z as t}from"./chunk-D7UFLJ5T.mjs";var d=(i,e)=>{let r=t(u),a=t(o);return console.log("\u{1F512} AuthGuard ejecut\xE1ndose para:",e.url),console.log("\u{1F512} AuthService isAuthenticated:",r.isAuthenticated()),r.isAuthenticated()?(console.log("\u2705 AuthGuard: Usuario autenticado, permitiendo acceso"),!0):(console.log("\u274C AuthGuard: Usuario NO autenticado, redirigiendo al login"),a.navigate(["/auth/login"],{queryParams:{returnUrl:e.url}}),!1)};export{d as a};
