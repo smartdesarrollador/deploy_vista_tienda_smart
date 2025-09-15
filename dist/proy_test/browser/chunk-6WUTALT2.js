@@ -1,1 +1,0 @@
-var t={production:!0,urlDominioApi:"https://apitienda.smartdigitaltec.com",urlRaiz:"https://apitienda.smartdigitaltec.com/api",apiUrl:"https://apitienda.smartdigitaltec.com/api",baseUrlImagenes:"https://apitienda.smartdigitaltec.com/assets/"};export{t as a};
